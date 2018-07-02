@@ -8,3 +8,6 @@
 // layout file, like app/views/layouts/application.html.erb
 
 import "./components/cart.jsx"
+import "./components/square.jsx"
+import "./components/user.jsx"
+import "./components/example.jsx"
